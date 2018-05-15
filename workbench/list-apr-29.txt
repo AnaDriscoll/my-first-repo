@@ -1,0 +1,33 @@
+3D Objects
+AppData
+Application Data
+Contacts
+Cookies
+Desktop
+Documents
+Downloads
+Favorites
+Links
+Local Settings
+MicrosoftEdgeBackups
+Music
+My Documents
+NetHood
+NTUSER.DAT
+NTUSER.DAT{76516d34-d596-11e7-9548-be8385f3194c}.TM.blf
+NTUSER.DAT{76516d34-d596-11e7-9548-be8385f3194c}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{76516d34-d596-11e7-9548-be8385f3194c}.TMContainer00000000000000000002.regtrans-ms
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+OneDrive
+Pictures
+PrintHood
+Recent
+Saved Games
+Searches
+SendTo
+Start Menu
+Templates
+Videos
+workbench
